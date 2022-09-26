@@ -85,10 +85,10 @@ author:
   bio              : "BSC. Biotechnology"
   location         : "Brazil"
   employer         :
-  pubmed           : "N/A"
-  googlescholar    : "N/A"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "N/A"
+  researchgate     : "https://www.researchgate.net/profile/Matheus-Cesar-Garcia"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0392-3797"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
